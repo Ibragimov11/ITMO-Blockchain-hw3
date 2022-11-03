@@ -1,0 +1,1 @@
+rootProject.name = "ITMO-Blockchain-hw3"
